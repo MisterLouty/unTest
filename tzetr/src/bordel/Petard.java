@@ -5,7 +5,7 @@
 package bordel;
 
 /**
- * elle ne fait rien car c'est un test de syncronisation
+ * elle ne fait rien car c'est un
  * @author Leo
  *
  */
