@@ -12,13 +12,13 @@ package bordel;
 public class Petard {
     
     /**
-     * TODO commenter le rôle de cette méthode
-     * @param arg no utilisé
+     * TODO commenter le rÃ´le de cette mÃ©thode
+     * @param arg no utilisÃ©
      */
     public static void main(String[] arg) {
         int crote;
         crote = 2;
-        System.out.println("bonjour"+crote);
+        System.out.println("branch3 et modif de la modif"+crote);
         
         
         
