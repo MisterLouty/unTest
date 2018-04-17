@@ -5,7 +5,7 @@
 package bordel;
 
 /**
- * TODO commenter les responsabilités de cette classe
+ * elle ne fait rien car c'est un test de syncronisation
  * @author Leo
  *
  */
