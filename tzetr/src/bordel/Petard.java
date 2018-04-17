@@ -5,7 +5,7 @@
 package bordel;
 
 /**
- * elle ne fait rien (essais)
+ * elle ne fait rien 
  * @author Leo
  *
  */
