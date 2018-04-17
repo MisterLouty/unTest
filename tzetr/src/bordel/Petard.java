@@ -10,5 +10,18 @@ package bordel;
  *
  */
 public class Petard {
+    
+    /**
+     * TODO commenter le rôle de cette méthode
+     * @param arg no utilisé
+     */
+    public static void main(String[] arg) {
+        int crote;
+        crote = 2;
+        System.out.println("coucou"+crote);
+        
+        
+        
+    }
 
 }
