@@ -18,7 +18,7 @@ public class Petard {
     public static void main(String[] arg) {
         int crote;
         crote = 2;
-        System.out.println("coucou"+crote);
+        System.out.println("bonjour"+crote);
         
         
         
